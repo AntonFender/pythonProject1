@@ -1,6 +1,7 @@
 
 
 import os
+import requests
 
 def current():
     """Пшел нахуй"""
